@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\bin\Debug\UçanTopOyunuYapımı.exe.config
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\bin\Debug\UçanTopOyunuYapımı.exe
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\bin\Debug\UçanTopOyunuYapımı.pdb
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.Form1.resources
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.Properties.Resources.resources
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.exe
+C:\Users\asus\source\repos\UçanTopOyunuYapımı\UçanTopOyunuYapımı\obj\Debug\UçanTopOyunuYapımı.pdb
